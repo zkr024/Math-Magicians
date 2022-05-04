@@ -10,6 +10,21 @@
   width: 100%;
 }
 
+.container {
+  display: flex;
+  justify-content: space-between;
+  margin: 15px 40px;
+}
+
+.title {
+  font-size: 30px;
+}
+
+.calculator {
+  border: 1px solid #000;
+  width: 80%;
+}
+
 .calculator-grid {
   display: grid;
   justify-content: center;
