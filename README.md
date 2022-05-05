@@ -10,7 +10,7 @@
 
 ## Live Demo
 
-Soon
+- [Heroku](https://math-zkr.herokuapp.com/)
 
 
 ## Getting Started
