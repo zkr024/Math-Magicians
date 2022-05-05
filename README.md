@@ -11,6 +11,7 @@
 ## Live Demo
 
 - [Heroku](https://math-zkr.herokuapp.com/)
+- [Netlify](https://6274125d03dc910be426438c--classy-torte-45e50b.netlify.app/)
 
 
 ## Getting Started
