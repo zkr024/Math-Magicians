@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import calculate from '../logic/calculate';
-import './Calculator.css';
+import './style/Calculator.css';
 
 const Calculator = () => {
   const [details, setDetails] = useState({
